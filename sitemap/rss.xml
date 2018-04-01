@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<rss version="2.0">
+  <channel>
+    <title>SPORTS FEST</title>
+    <link>http://www.sportsfest-kiet.com</link>
+    <description />
+    <item>
+      <guid>http://www.sportsfest-kiet.com/</guid>
+      <title>SPORTS FEST</title>
+      <link>http://www.sportsfest-kiet.com/</link>
+      <description />
+    </item>
+    <item>
+      <guid>http://www.sportsfest-kiet.com/contact_us</guid>
+      <title>CONTACT US</title>
+      <link>http://www.sportsfest-kiet.com/contact_us</link>
+      <description />
+    </item>
+    <item>
+      <guid>http://www.sportsfest-kiet.com/core_comittee</guid>
+      <title>Core Committe Member</title>
+      <link>http://www.sportsfest-kiet.com/core_comittee</link>
+      <description />
+    </item>
+    <item>
+      <guid>http://www.sportsfest-kiet.com/showStudentCommitee</guid>
+      <title>Student Committe Members</title>
+      <link>http://www.sportsfest-kiet.com/showStudentCommitee</link>
+      <description />
+    </item>
+  </channel>
+</rss>
+<!--<guid value="2c071ac6-452b-4150-b301-465204057e06" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
